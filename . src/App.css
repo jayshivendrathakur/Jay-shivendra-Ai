@@ -1,0 +1,39 @@
+body {
+  background-color: #111;
+  color: white;
+  font-family: 'Arial';
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 20px;
+  max-width: 700px;
+  margin: auto;
+}
+
+textarea, input {
+  width: 100%;
+  padding: 10px;
+  background: #222;
+  color: white;
+  border: 1px solid #555;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  background: #00b894;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.chatbox {
+  margin-top: 20px;
+}
+
+.chat {
+  border-top: 1px solid #444;
+  padding-top: 10px;
