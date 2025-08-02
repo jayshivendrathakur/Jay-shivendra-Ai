@@ -1,0 +1,12 @@
+import './App.css';
+
+function App() {
+  return (
+    <div className="app">
+      <h1>Jay Shivendra Thakur AI 🤖</h1>
+      <p>Deep thoughts, poetic replies, and mindful answers.</p>
+    </div>
+  );
+}
+
+export default App;
